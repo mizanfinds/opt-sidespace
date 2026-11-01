@@ -18,10 +18,8 @@
 
 ---
 
-### [⬇️ Download Direct Executable (OPTSideSpace.exe)](https://github.com/mizanfinds/opt-sidespace/raw/main/release/OPTSideSpace.exe)
-*Click above to download directly (~245 KB) — No installer or admin rights required!*
-
-*(Or view all versions on [GitHub Releases](https://github.com/mizanfinds/opt-sidespace/releases))*
+### [⬇️ Download Latest Version (OPTSideSpace.exe)](https://github.com/mizanfinds/opt-sidespace/releases/latest)
+*Standalone portable executable (~245 KB) — No installer or admin rights required!*
 
 </div>
 
@@ -65,7 +63,7 @@ Your monitor is cleanly divided into two separate working zones:
 
 ## 🚀 How to Run
 
-1. Download **[`OPTSideSpace.exe`](https://github.com/mizanfinds/opt-sidespace/raw/main/release/OPTSideSpace.exe)**.
+1. Download **[`OPTSideSpace.exe`](https://github.com/mizanfinds/opt-sidespace/releases/latest)**.
 2. Double-click to run. No installation or administrator privileges required.
 3. Choose an app from the quick buttons, click **Select App (⊞)** to pick any running or installed application, or drag any window to your SideSpace.
 4. To exit or close, click the **[ ✕ ]** button at the top-right corner or right-click the tray icon and select **Exit**.
