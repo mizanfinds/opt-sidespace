@@ -1,6 +1,8 @@
-# OPT SideSpace
-
 <div align="center">
+
+<img src="assets/logo.png" alt="OPT SideSpace Logo" width="130" />
+
+# OPT SideSpace
 
 **A lightweight, permanent right-side reserved workspace for Windows.**
 
@@ -85,7 +87,7 @@ Get-FileHash OPTSideSpace.exe -Algorithm SHA256
 ```
 
 **Official Release v1.0.0 SHA-256:**
-`4CDE5B4B32E19CFCCA54BACCD5EA52F59AA6633B29F514925F8EB2D0EC9706B6`
+`0A48C62730ABD66F9889CC574BD14BFBDB063D92D0961E69FDA7529A90DB41CA`
 
 ---
 
@@ -100,3 +102,4 @@ Get-FileHash OPTSideSpace.exe -Algorithm SHA256
 <div align="center">
 Copyright © 2026 <b>Mizan Finds</b> & <b>OPT asia</b>. All rights reserved.
 </div>
+

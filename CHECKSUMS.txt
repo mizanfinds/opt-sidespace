@@ -5,12 +5,13 @@ Verify your downloaded executable to ensure file authenticity and integrity.
 
 File: release/OPTSideSpace.exe
 Version: 1.0.0
-Size: ~66 KB
+Size: ~235 KB
 SHA-256 Hash:
-4CDE5B4B32E19CFCCA54BACCD5EA52F59AA6633B29F514925F8EB2D0EC9706B6
+0A48C62730ABD66F9889CC574BD14BFBDB063D92D0961E69FDA7529A90DB41CA
 
 How to verify in Windows PowerShell:
   Get-FileHash OPTSideSpace.exe -Algorithm SHA256
 
 If the hash matches the value above, the binary is authentic and unmodified.
 Published by OPT asia (https://opt.asia) | Created by Mizan Finds (https://mizanfinds.com)
+

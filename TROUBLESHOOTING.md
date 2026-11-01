@@ -20,3 +20,4 @@ You can also verify the SHA-256 hash in [CHECKSUMS.txt](CHECKSUMS.txt) or scan i
 
 ### 5. Multi-monitor setups
 OPT SideSpace attaches to the right edge of your **Primary Monitor**. Secondary monitors remain standard desktops.
+
