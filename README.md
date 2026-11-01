@@ -18,8 +18,10 @@
 
 ---
 
-### [⬇️ Download Latest Version (OPTSideSpace.exe)](https://github.com/mizanfinds/opt-sidespace/releases/latest)
-*Standalone portable executable (~66 KB) — No installer or admin rights required!*
+### [⬇️ Download Direct Executable (OPTSideSpace.exe)](https://github.com/mizanfinds/opt-sidespace/raw/main/release/OPTSideSpace.exe)
+*Click above to download directly (~245 KB) — No installer or admin rights required!*
+
+*(Or view all versions on [GitHub Releases](https://github.com/mizanfinds/opt-sidespace/releases))*
 
 </div>
 
@@ -56,14 +58,14 @@ Your monitor is cleanly divided into two separate working zones:
 - **Zero-Flicker & No Focus Stealing:** Type peacefully in your main desktop windows; SideSpace stays docked without stealing your active focus.
 - **Adjustable Width:** 250px, 300px, 350px, 400px, 450px, 500px, or custom pixel width.
 - **One-Click Instant Release:** Closing SideSpace (`✕` or System Tray Exit) immediately releases 100% of the screen back to full monitor width.
-- **Ultra-Lightweight & Portable:** Written in native C# / Win32. Only ~66 KB! Zero external dependencies, no Electron, no WebView2 bloat, no background services.
+- **Ultra-Lightweight & Portable:** Written in native C# / Win32. Zero external dependencies, no Electron, no WebView2 bloat, no background services.
 - **System Tray Integration:** Runs quietly in the notification area with easy access to quick settings, switching apps, and width control.
 
 ---
 
 ## 🚀 How to Run
 
-1. Download **[`OPTSideSpace.exe`](https://github.com/mizanfinds/opt-sidespace/releases/latest)**.
+1. Download **[`OPTSideSpace.exe`](https://github.com/mizanfinds/opt-sidespace/raw/main/release/OPTSideSpace.exe)**.
 2. Double-click to run. No installation or administrator privileges required.
 3. Choose an app from the quick buttons, click **Select App (⊞)** to pick any running or installed application, or drag any window to your SideSpace.
 4. To exit or close, click the **[ ✕ ]** button at the top-right corner or right-click the tray icon and select **Exit**.
