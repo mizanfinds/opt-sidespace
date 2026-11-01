@@ -1,0 +1,16 @@
+OPT SideSpace — Official Binary SHA-256 Checksums
+===================================================
+
+Verify your downloaded executable to ensure file authenticity and integrity.
+
+File: release/OPTSideSpace.exe
+Version: 1.0.0
+Size: ~66 KB
+SHA-256 Hash:
+4CDE5B4B32E19CFCCA54BACCD5EA52F59AA6633B29F514925F8EB2D0EC9706B6
+
+How to verify in Windows PowerShell:
+  Get-FileHash OPTSideSpace.exe -Algorithm SHA256
+
+If the hash matches the value above, the binary is authentic and unmodified.
+Published by OPT asia (https://opt.asia) | Created by Mizan Finds (https://mizanfinds.com)
